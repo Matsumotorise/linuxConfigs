@@ -1,0 +1,77 @@
+#!/bin/sh
+alias ka="killall" \
+	mpv="mpv --input-ipc-server=/tmp/mpvsoc$(date +%s)" \
+	calcurse="calcurse -D ~/.config/calcurse" \
+	magit="nvim -c Magit" \
+	SS="sudo systemctl" \
+	f="vifm" \
+	g="git" \
+	trem="transmission-remote" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	x="sxiv -ft *" \
+	sdn="sudo shutdown -h now" \
+	gua="git remote | xargs -L1 git push --all" \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	senable="sudo systemctl enable" \
+	pS="pacman -Q | grep" \
+	diff="diff --color=auto" \
+	pQ="sudo pacman -Q | grep" \
+	cat="sed '11q'" \
+	ccat="highlight --out-format=ansi" \
+	pcc='pc c' \
+	yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'" \
+	yta="yt -x -f bestaudio/best" \
+	YT="youtube-viewer" \
+	ref="shortcuts >/dev/null; source ~/.config/shortcutrc" \
+	upc="sudo pacman -Syu; pkill -RTMIN+8 i3blocks" \
+	lsp="pacman -Qett --color=always | less" \
+	la="ls -la" \
+	ffmpeg="ffmpeg -hide_banner" \
+	u="sudo pacman -Syuu && sudo update-grub" \
+	purge="sudo pacman -Rns" \
+	install="sudo pacman -S" \
+	wget="wget -E -H -k -K -p --convert-links" \
+	bashrc="vim ~/.bashrc" \
+	i3c="vim ~/.config/i3/config" \
+	i3bc="vim ~/.config/i3blocks/config" \
+	ddt="pandoc --wrap=none --top-level-division=chapter -s" \
+	jpn="nohup zathura ~/share/Users/Andrew/Documents/Textbooks/Jpn/Genki-I-E2/GENKI-I-An-Integrated-Course-in-Elementary-Japanese.pdf > /dev/null &" \
+	aunpack="sudo aunpack" \
+	l='ls' \
+	c='cd' \
+
+
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.
+
+shdl() { curl -O $(curl -s http://sci-hub.tw/"$@" | grep location.href | grep -o http.*pdf);}
+se() { du -a ~/.scripts/* ~/.config/* | awk '{print $2}' | fzf | xargs  -r $EDITOR ;}
+sv() { vcopy "$(du -a ~/.scripts/* ~/.config/* | awk '{print $2}' | fzf)" ;}
+vf() { fzf | xargs -r -I % $EDITOR % ;}
+
+mvln() {
+set -e
+original="$1" target="$2"
+if [ -d "$target" ]; then
+  target="$target/${original##*/}"
+fi
+mv -- "$original" "$target"
+case "$original" in
+  */*)
+    case "$target" in
+      /*) :;;
+      *) target="$(cd -- "$(dirname -- "$target")" && pwd)/${target##*/}"
+    esac
+esac
+ln -s -- "$target" "$original"
+}
+
+function z() {
+	zathura "$@" & disown
+}
+
+function matlab() {
+	/opt/Matlab/bin/matlab & disown
+}
+
