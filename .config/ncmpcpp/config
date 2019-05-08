@@ -31,7 +31,6 @@ mpd_connection_timeout = 5
 ## Needed for tag editor and file operations to work.
 ##
 mpd_music_dir = "/home/andrew/Music/Music"
-#
 #mpd_crossfade_time = 5
 #
 ##### music visualizer #####
@@ -48,9 +47,8 @@ mpd_music_dir = "/home/andrew/Music/Music"
 #        format          "44100:16:2"
 # }
 
-
 visualizer_fifo_path = /tmp/mpd.fifo
-#
+
 ##
 ## Note: Below parameter is needed for ncmpcpp to determine which output
 ## provides data for visualizer and thus allow syncing between visualization and

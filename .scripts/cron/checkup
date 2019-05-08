@@ -1,11 +1,9 @@
 #!/bin/sh
 # Syncs repositories and downloads updates, meant to be run as a cronjob.
 
-#sudo pacman -Rns $(pacman -Qtdq)
-
 ping -q -c 1 1.1.1.1 > /dev/null || exit
 
-notify-send -i "$PIX/larbs.svg" "Checking for pacakge updates..."
+notify-send "📦 Repository Sync" "Checking for package updates..."
 
 sudo pacman -Syyuw --noconfirm || notify-send "Error downloading updates.
 
@@ -18,8 +16,5 @@ then
 else
 	notify-send "📦 Repository Sync"  "Sync complete. No new packages for update."
 fi
-
 notify-send -i "$PIX/larbs.gif" "Optimizing chromium database"
 notify-send "`profile-cleaner c | grep reduced`"
-
-
