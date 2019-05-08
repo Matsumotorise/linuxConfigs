@@ -6,6 +6,7 @@ alias ka="killall" \
 	SS="sudo systemctl" \
 	f="vifm" \
 	g="git" \
+	gp="git pull --allow-unrelated-histories' \
 	trem="transmission-remote" \
 	e="$EDITOR" \
 	v="$EDITOR" \
@@ -38,6 +39,7 @@ alias ka="killall" \
 	i3bc="vim ~/.config/i3blocks/config" \
 	ddt="pandoc --wrap=none --top-level-division=chapter -s" \
 	jpn="nohup zathura ~/share/Users/Andrew/Documents/Textbooks/Jpn/Genki-I-E2/GENKI-I-An-Integrated-Course-in-Elementary-Japanese.pdf > /dev/null &" \
+	unetbootin="sudo QT_X11_NO_MITSHM=1 unetbootin.elf" \
 	aunpack="sudo aunpack" \
 	l='ls' \
 	c='cd' \
