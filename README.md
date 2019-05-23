@@ -1,3 +1,3 @@
 ## To install
-  * cd ~
+  * cd ~/..
   * git clone https://github.com/Matsumotorise/linuxConfigs.git
