@@ -12,7 +12,7 @@ super + m
 super + n
 	$TERMINAL -e newsboat
 super + i
-	$TERMINAL -e htop
+	$JAVAIDE
 super + y
 	$TERMINAL -e calcurse
 super + shift + a
@@ -20,11 +20,11 @@ super + shift + a
 super + shift + c
 	camtoggle
 super + shift + e
-	tutorialvids
+	eclipse
 super + w
-	webby | xargs -r $BROWSER
-super + shift + w
 	$BROWSER
+super + shift + w
+	webby | xargs -r $BROWSER
 super + shift + g
 	gimp
 
