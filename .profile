@@ -2,6 +2,7 @@
 # Profile file. Runs on login.
 
 # Adds `~/.scripts` and all subdirectories to $PATH
+
 export PATH="$PATH:$(du "$HOME/.scripts/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
 export EDITOR="nvim"
 export TERMINAL="st"
@@ -13,7 +14,8 @@ export REFER="$HOME/Documents/referbib"
 export SUDO_ASKPASS="$HOME/.scripts/tools/dmenupass"
 export NOTMUCH_CONFIG="$HOME/.config/notmuch-config"
 export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
-export JAVAIDE="/opt/Intelij/bin/idea.sh"
+export JAVAIDE="/opt/InteliJ/bin/idea.sh"
+export SHOME="/home/andrew/share/Users/Andrew/"
 
 # Japanese input for QT and GTK programs
 export QT_IM_MODULE=fcitx

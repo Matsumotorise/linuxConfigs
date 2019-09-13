@@ -19,7 +19,7 @@ else
 	notify-send "📦 Repository Sync"  "Sync complete. No new packages for update."
 fi
 
-notify-send -i "$PIX/larbs.gif" "Optimizing chromium database"
+notify-send -i "Optimizing chromium database..."
 notify-send "`profile-cleaner c | grep reduced`"
 
 

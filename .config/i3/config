@@ -18,6 +18,8 @@ set $reboot sudo -A reboot
 set $netrefresh --no-startup-id sudo -A systemctl restart NetworkManager
 set $hibernate sudo -A systemctl suspend
 
+
+
 # #---Dropdown Windows---# #
 
 # General dropdown window traits. The order can matter.
@@ -298,7 +300,7 @@ bindsym Control+XF86AudioLowerVolume	exec --no-startup-id lmc down 1
 bindsym XF86AudioRaiseVolume	exec --no-startup-id lmc up 5
 bindsym Shift+XF86AudioRaiseVolume	exec --no-startup-id lmc up 10
 bindsym Control+XF86AudioRaiseVolume	exec --no-startup-id lmc up 1
-bindsym XF86PowerOff		exec --no-startup-id prompt "Shutdown computer?" "$shutdown"
+##bindsym XF86PowerOff		exec --no-startup-id prompt "Shutdown computer?" "$shutdown"
 ##bindsym XF86Copy		exec
 ##bindsym XF86Open		exec
 ##bindsym XF86Paste		exec

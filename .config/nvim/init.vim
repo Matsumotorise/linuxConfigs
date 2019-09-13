@@ -18,6 +18,10 @@ set nohlsearch
 set clipboard=unnamedplus
 " Some basics:
 	set nocompatible
+	set smartindent
+	set noexpandtab
+	set tabstop=4
+	set shiftwidth=4
 	filetype plugin on
 	syntax on
 	set encoding=utf-8

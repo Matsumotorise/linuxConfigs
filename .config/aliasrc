@@ -41,7 +41,8 @@ alias ka="killall" \
 	aunpack="sudo aunpack" \
 	l='ls' \
 	c='cd' \
-
+	msfconsole="msfconsole --quiet -x \"db_connect ${USER}@msf\"" \
+	sshs="ssh andrewclchan211@rlogin.cs.vt.edu"
 
 command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.
 
@@ -73,5 +74,8 @@ function z() {
 
 function matlab() {
 	/opt/Matlab/bin/matlab & disown
+}
+function vb(){
+	virtualbox & disown
 }
 
