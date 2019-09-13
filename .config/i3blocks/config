@@ -1,4 +1,4 @@
-command=~/.scripts/statusbar/$BLOCK_NAME
+command=~/.local/bin/statusbar/$BLOCK_NAME
 separator_block_width=15
 markup=pango
 
@@ -30,7 +30,7 @@ interval=20
 signal=7
 
 [weather]
-interval=3600
+interval=18000
 signal=5
 
 [mailbox]
@@ -39,12 +39,12 @@ interval=180
 signal=12
 
 [memory]
-interval=30
-label=🧠
+#interval=30
+#label=🧠
 
-[cpu]
-interval=15
-label=💻
+#[cpu]
+#interval=15
+#label=💻
 
 [volume]
 interval=once
@@ -68,3 +68,4 @@ interval=30
 
 [internet]
 interval=10
+

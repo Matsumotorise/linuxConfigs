@@ -1,5 +1,11 @@
 let mapleader =","
 
+if ! filereadable(expand('~/.config/nvim/autoload/plug.vim'))
+	echo "Downloading junegunn/vim-plug to manage plugins..."
+	silent !mkdir -p ~/.config/nvim/autoload/
+	silent !curl "https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim" > ~/.config/nvim/autoload/plug.vim
+endif
+
 call plug#begin('~/.config/nvim/plugged')
 Plug 'tpope/vim-surround'
 Plug 'scrooloose/nerdtree'
@@ -10,18 +16,20 @@ Plug 'LukeSmithxyz/vimling'
 Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
+
+lug 'vifm/vifm.vim'
+Plug 'kovetskiy/sxhkd-vim'
 call plug#end()
 
 set bg=light
+set go=a
 set mouse=a
 set nohlsearch
-set clipboard=unnamedplus
+set clipboard+=unnamedplus
+
 " Some basics:
+	nnoremap c "_c
 	set nocompatible
-	set smartindent
-	set noexpandtab
-	set tabstop=4
-	set shiftwidth=4
 	filetype plugin on
 	syntax on
 	set encoding=utf-8
@@ -41,7 +49,7 @@ set clipboard=unnamedplus
 	set splitbelow splitright
 
 " Nerd tree
-	map <C-n> :NERDTreeToggle<CR>
+	map <leader>n :NERDTreeToggle<CR>
 	autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
 " vimling:
@@ -83,11 +91,7 @@ set clipboard=unnamedplus
 	autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
 	autocmd BufRead,BufNewFile *.tex set filetype=tex
 
-" Copy selected text to system clipboard (requires gvim/nvim/vim-x11 installed):
-	vnoremap <C-c> "+y
-	map <C-p> "+P
-
-" Enable Goyo by default for mutt writting
+ Enable Goyo by default for mutt writting
 	" Goyo's width will be the line limit in mutt.
 	autocmd BufRead,BufNewFile /tmp/neomutt* let g:goyo_width=80
 	autocmd BufRead,BufNewFile /tmp/neomutt* :Goyo \| set bg=light
@@ -95,11 +99,14 @@ set clipboard=unnamedplus
 " Automatically deletes all trailing whitespace on save.
 	autocmd BufWritePre * %s/\s\+$//e
 
-" When shortcut files are updated, renew bash and ranger configs with new material:
-	autocmd BufWritePost ~/.bmdirs,~/.bmfiles !shortcuts
+" When shortcut files are updated, renew bash and vifm configs with new material:
+	autocmd BufWritePost ~/.config/bmdirs,~/.config/bmfiles !shortcuts
+
+" Update binds when sxhkdrc is updated.
+	autocmd BufWritePost *sxhkdrc !pkill -USR1 sxhkd
 
 " Run xrdb whenever Xdefaults or Xresources are updated.
-	autocmd BufWritePost ~/.Xresources,~/.Xdefaults !xrdb %
+	autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
 
 " Navigating with guides
 	inoremap <leader><leader> <Esc>/<++><Enter>"_c4l
@@ -217,4 +224,4 @@ set clipboard=unnamedplus
 """.xml
 	autocmd FileType xml inoremap ,e <item><Enter><title><++></title><Enter><guid<space>isPermaLink="false"><++></guid><Enter><pubDate><Esc>:put<Space>=strftime('%a, %d %b %Y %H:%M:%S %z')<Enter>kJA</pubDate><Enter><link><++></link><Enter><description><![CDATA[<++>]]></description><Enter></item><Esc>?<title><enter>cit
 	autocmd FileType xml inoremap ,a <a href="<++>"><++></a><++><Esc>F"ci"
-
+>>>>>> ac4b78b169733d3b31ef11a3d57c2d4953186a2b

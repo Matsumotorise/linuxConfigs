@@ -1,10 +1,12 @@
-#!/bin/sh
+#!/usr/bin/env sh
 alias ka="killall" \
+	mkd="mkdir -pv" \
 	mpv="mpv --input-ipc-server=/tmp/mpvsoc$(date +%s)" \
 	calcurse="calcurse -D ~/.config/calcurse" \
-	magit="nvim -c Magit" \
+	magit="nvim -c MagitOnly" \
+	p="sudo pacman" \
 	SS="sudo systemctl" \
-	f="vifm" \
+	f="$FILE" \
 	g="git" \
 	trem="transmission-remote" \
 	e="$EDITOR" \
@@ -42,7 +44,8 @@ alias ka="killall" \
 	l='ls' \
 	c='cd' \
 	msfconsole="msfconsole --quiet -x \"db_connect ${USER}@msf\"" \
-	sshs="ssh andrewclchan211@rlogin.cs.vt.edu"
+	sshs="ssh andrewclchan211@rlogin.cs.vt.edu"\
+	ffmpeg="ffmpeg -hide_banner"
 
 command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.
 
@@ -78,4 +81,3 @@ function matlab() {
 function vb(){
 	virtualbox & disown
 }
-
