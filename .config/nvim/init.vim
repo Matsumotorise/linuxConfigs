@@ -16,8 +16,7 @@ Plug 'LukeSmithxyz/vimling'
 Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
-
-lug 'vifm/vifm.vim'
+Plug 'vifm/vifm.vim'
 Plug 'kovetskiy/sxhkd-vim'
 call plug#end()
 
@@ -32,7 +31,11 @@ set clipboard+=unnamedplus
 	set nocompatible
 	filetype plugin on
 	syntax on
+	set ts=2
+	set shiftwidth=2
+	set	smartindent
 	set encoding=utf-8
+	set noexpandtab
 	set number relativenumber
 " Enable autocompletion:
 	set wildmode=longest,list,full
@@ -91,7 +94,7 @@ set clipboard+=unnamedplus
 	autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
 	autocmd BufRead,BufNewFile *.tex set filetype=tex
 
- Enable Goyo by default for mutt writting
+	" Enable Goyo by default for mutt writting
 	" Goyo's width will be the line limit in mutt.
 	autocmd BufRead,BufNewFile /tmp/neomutt* let g:goyo_width=80
 	autocmd BufRead,BufNewFile /tmp/neomutt* :Goyo \| set bg=light
@@ -224,4 +227,4 @@ set clipboard+=unnamedplus
 """.xml
 	autocmd FileType xml inoremap ,e <item><Enter><title><++></title><Enter><guid<space>isPermaLink="false"><++></guid><Enter><pubDate><Esc>:put<Space>=strftime('%a, %d %b %Y %H:%M:%S %z')<Enter>kJA</pubDate><Enter><link><++></link><Enter><description><![CDATA[<++>]]></description><Enter></item><Esc>?<title><enter>cit
 	autocmd FileType xml inoremap ,a <a href="<++>"><++></a><++><Esc>F"ci"
->>>>>> ac4b78b169733d3b31ef11a3d57c2d4953186a2b
+

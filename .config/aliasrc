@@ -81,3 +81,6 @@ function matlab() {
 function vb(){
 	virtualbox & disown
 }
+function scps(){
+	scp ./$1 andrewclchan211@rlogin.cs.vt.edu:/home/ugrads/nonmajors/andrewclchan211/Downloads
+}

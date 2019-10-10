@@ -13,6 +13,8 @@ super + n
 	$TERMINAL -e newsboat
 super + i
 	$TERMINAL -e htop
+super + shift + i
+	 /opt/InteliJ/bin/idea.sh
 super + y
 	$TERMINAL -e calcurse -D ~/.config/calcurse
 super + shift + a
@@ -22,8 +24,6 @@ super + shift + c
 super + shift + e
 	tutorialvids
 super + w
-	webby | xargs -r $BROWSER
-super + shift + w
 	$BROWSER
 super + shift + g
 	gimp
@@ -66,9 +66,9 @@ XF86AudioPrev
 XF86AudioStop
 	lmc toggle
 XF86MonBrightnessDown
-	xbacklight -dec 15
+	light -U 3
 XF86MonBrightnessUp
-	xbacklight -inc 15
+	light -A 3
 
 
 # Recording
@@ -142,5 +142,3 @@ super + F11
 # Network Manager interface
 super + F12
 	$TERMINAL -e sudo -A nmtui
-
-
