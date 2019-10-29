@@ -1,0 +1,132 @@
+T 1548691661 19*	Now talking on 22#bookz
+T 1548691661 22*	Topic for 22#bookz is: The fountain of Knowledge! | !ebook-naming !list @find @search @seek !seen | You are advised to use Common Sense! | Join #creative_minds for discussion
+T 1548691661 22*	Topic for 22#bookz set by 26|Joker| (24Wed Jan  9 06:23:46 2019)
+T 1548691662 18<Bobichas18>	@search canning
+T 1548691665 23*	Oatmeal (~Oatmeal@173.80.26.7123) has joined
+T 1548691665 18<mmhmm18>	!Oatmeal Charlie N Holmberg - [Paper Magician 03] - The Master Magician (retail) (azw3).rar
+T 1548691665 24*	Received a CTCP 24SLOTS 20 0 NOW 0 999 0 775096 883900156333 0 0 9 OmenServe v2.73 from 18Oatmeal (to 22#bookz)
+T 1548691668 22*	26Tesseract4D gives voice to 18Oatmeal
+T 1548691672 23*	x_mpg (~x_mpg@197.25.161.14723) has joined
+T 1548691681 20<Rrtyui>30	@search Data Structures and Abstractions with Java
+T 1548691682 18<nikhil987618>	@search effective C++
+T 1548691684 18<Ras8berry18>	!pondering42 Gentry Race & Justin Sloan - Psychonautz (epub).rar
+T 1548691686 -18SearchOok-	1,9<<SearchBot>> Your search for "12,9Data Structures and Abstractions with Java1,9" has been accepted. Searching...
+T 1548691688 18<jwisbell3518>	!pondering42 L E Modesitt Jr - [SpellSong Cycle 05] - Shadowsinger (epub).rar  ::INFO:: 571.6KB
+T 1548691688 18<x_mpg18>	@search slide rule
+T 1548691692 18<dragnbreaker18>	04,0014,00 12,00Type:04,00 @dragnbreaker 12,00For My List Of:04,00 310,624 12,00Files 14,00 12,00Slots:04,00 2/4 14,00 12,00Queued:04,00 2 14,00 12,00Speed:04,00 30,295cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 161,091 14,00 12,00List: 04,00Jan 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1548691692 23*	shepe (~shepe@188.230.83.11223) has joined
+T 1548691692 -18SearchOok-	1,9<<SearchBot>> Your search for "12,9Data Structures and Abstractions with Java1,9" returned 1 matches. Sending results to you as12 SearchOok_results_for_ Data Structures and Abstractions with Java.txt.zip1,9. Search took 0.69 seconds.
+T 1548691695 18<glaymore18>	!Ook Michael Shea - Copping Squid and Other Mythos Tales (epub).rar
+T 1548691695 -18SearchOok-	DCC Send SearchOok_results_for_ Data Structures and Abstractions with Java.txt.zip (80.43.60.30)
+T 1548691696 24*	18SearchOok has offered '23SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip' (24790 bytes)
+T 1548691696 24*	Received a CTCP 24SLOTS 4 2 NOW 2 999 30295 310624 1606230542429 1 1548034859 389766 OmenServe v2.71 from 18dragnbreaker (to 22#bookz)
+T 1548691704 18<Ras8berry18>	!pondering42 Geonn Cannon - [Claire Lance 03] - Confused by Shadows (azw3).rar
+T 1548691712 24*	DCC RECV connection established to 18SearchOok 30[2480.43.60.30:205630]
+T 1548691712 SHA-256 checksum for SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip (local): 4c51544daefaab7aaf81efea8e9ef503bc428691befe90fd2524f6ffa15342ed
+T 1548691712 24*	DCC RECV '23SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip' from 18SearchOok complete 30[241344 cps30]
+T 1548691712 18<sandal118>	!Ook Lexi Ryan - [The Blackhawk Boys 03] - Going Under (epub).rar  ::INFO:: 369.9KB
+T 1548691713 18<sandal118>	!Ook Lexi Ryan - [The Blackhawk Boys 04] - Falling Hard (epub).rar  ::INFO:: 615.8KB
+T 1548691717 23*	attila (~attila@193.226.193.7623) has joined
+T 1548691718 24*	Grazioso has quit (Quit: �)
+T 1548691721 24*	attila has quit (Quit)
+T 1548691723 18<shepe18>	@search das Lied von Eis und Feuer
+T 1548691724 18<Ras8berry18>	!pondering42 Geonn Cannon - [Trafalgar and Boone 03] - Trafalgar and Boone and the Books of Breathing (epub).rar
+T 1548691733 18<louieee18>	@search emma chase royally yours
+T 1548691739 23*	percyikana (percyikana@156.26.45.9223) has joined
+T 1548691741 18<sandal118>	!Ook Lexi Ryan - [The Blackhawk Boys 05] - In Too Deep (retail) (epub).rar  ::INFO:: 1.6MB
+T 1548691743 22*	26Calisto sets channel limit to 24498
+T 1548691744 18<Ras8berry18>	!pondering42 Geonn Cannon - [Trafalgar and Boone 04] - Trafalgar Boone and the Children of the Burnt Empire (epub).rar
+T 1548691748 18<DV818>	09,0614,06 08,06Type:09,06 @DV8 08,06For My List Of:09,06 94,619 08,06Files 14,06 08,06Slots:09,06 4/4 14,06 08,06Queued:09,06 0 14,06 08,06Speed:09,06 0cps 14,06 08,06Next: 09,06NOW 14,06 08,06Served:09,06 59,206 14,06 08,06List: 09,06Oct 1st 14,06 08,06Search: 09,06ON 14,06 08,06Mode: 09,06Servers Priority 14,06
+T 1548691748 23*	turnerhusa (turnerhusa@150.212.127.1623) has joined
+T 1548691753 18<`ns`18>	0,6Type @`ns` for my tiny list of fantasy novel epubs. 2 books added on 2016.08.08 : xchat_list_serv.0.8.2
+T 1548691753 24*	Received a CTCP 24SLOTS 4 4 NOW 0 999 0 94619 199275477614 1 1538422789 699081 OmenServe v2.73 from 18DV8 (to 22#bookz)
+T 1548691764 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 01] - Death's Foot Forward (epub).rar
+T 1548691772 18<percyikana18>	@search 9780393615050
+T 1548691776 23*	Serotonin (~Serotonin@host86-172-21-173.range86-172.btcentralplus.com23) has joined
+T 1548691780 18<Bobichas18>	!Ook Victor Canning - [Smiler 01] - The Runaways (retail) (epub).rar  ::INFO:: 318.3KB
+T 1548691784 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 02] - Miss Turquoise (epub).rar
+T 1548691785 23*	Ashfeathers (~Ashfeathe@77.41.225.13123) has joined
+T 1548691796 18<percyikana18>	@search ESSENTIALS OF SOCIOLOGY
+T 1548691796 24*	Alterna2 has quit (Ping timeout)
+T 1548691797 18<Bobichas18>	!Ook Victor Canning - [Smiler 02] - Flight of the Grey Goose (retail) (epub).rar  ::INFO:: 325.9KB
+T 1548691804 18<naienko18>	@BookerT
+T 1548691804 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 03] - Live, Love, and Cry (epub).rar
+T 1548691812 18<x_mpg18>	!dragnbreaker Shute, Nevil - Novel 18 - Slide Rule- The Autobiography of an Engineer (v5.0).epub
+T 1548691812 18<Bobichas18>	!Ook Victor Canning - [Smiler 03] - The Painted Tent (retail) (epub).rar  ::INFO:: 327.4KB
+T 1548691816 18<Ashfeathers18>	@harry potter und der stein der weisen
+T 1548691824 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 04] - Kisses From Satan (epub).rar
+T 1548691829 18<Bobichas18>	!Ook Victor Canning - [The Crimson Chalice 01] - The Crimson Chalice (retail) (epub).rar  ::INFO:: 321.6KB
+T 1548691830 23*	bocHya (shreyashpa@116.74.146.8723) has joined
+T 1548691834 18<Ashfeathers18>	@search harry potter und der stein der weisen
+T 1548691837 18<Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 696,973 12,00Files 14,00 12,00Slots:04,00 3/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 154,359 14,00 12,00List: 04,00Jan 28th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1548691840 18<GDarklighter18>	04,00New list Jan 11.14,00 12,00Type:04,00 @GDarklighter 12,00For My List Of:04,00 58,861 12,00Files 14,00 12,00Slots:04,00 3/3 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 156,054 14,00 12,00List: 04,00Jan 11th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Normal 14,00
+T 1548691844 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 05] - The Girl From Peking (epub).rar
+T 1548691845 24*	Received a CTCP 24SLOTS 3 3 NOW 0 999 0 58861 996256284700 0 1547268450 643750 OmenServe v2.71 from 18GDarklighter (to 22#bookz)
+T 1548691848 18<Bobichas18>	!Ook Victor Canning - [The Crimson Chalice 02] - The Circle of the Gods (retail) (epub).rar  ::INFO:: 326.4KB
+T 1548691849 18<louieee18>	!Ook Emma Chase - [Royally 04] - Royally Yours (epub).rar
+T 1548691861 18<Bobichas18>	!Ook Victor Canning - Everyman's England (retail) (epub).rar  ::INFO:: 2.1MB
+T 1548691864 18<Ras8berry18>	!pondering42 George B Mair - [David Grant 06] - Black Champagne (epub).rar
+T 1548691865 20<Rrtyui>30	@search Data Structures and Abstractions with Java
+T 1548691867 18<sandal118>	@search amy daws harris
+T 1548691869 -18SearchOok-	1,9<<SearchBot>> Your search for "12,9Data Structures and Abstractions with Java1,9" has been accepted. Searching...
+T 1548691869 18<hamsterbacke18>	For my list of 618637 files type: @hamsterbacke, Sends: 1/4 , Queue: 0/40, Voicepriority: ON, For help: @hamsterbacke-help Using: Irssi Findbot v1.58
+T 1548691870 18<GDarklighter18>	@Oatmeal-que
+T 1548691874 -18SearchOok-	1,9<<SearchBot>> Your search for "12,9Data Structures and Abstractions with Java1,9" returned 1 matches. Sending results to you as12 SearchOok_results_for_ Data Structures and Abstractions with Java.txt.zip1,9. Search took 0.69 seconds.
+T 1548691877 18<macmittens9918>	@search zucman
+T 1548691877 -18SearchOok-	DCC Send SearchOok_results_for_ Data Structures and Abstractions with Java.txt.zip (80.43.60.30)
+T 1548691877 24*	18SearchOok has offered '23SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip' (24790 bytes)
+T 1548691878 18<Bobichas18>	!Ook Victor Canning - Queen's Pawn (retail) (epub).rar  ::INFO:: 382.2KB
+T 1548691882 24*	DCC RECV connection established to 18SearchOok 30[2480.43.60.30:204430]
+T 1548691882 SHA-256 checksum for SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip (local): 945f5cb7bb54308b61a13e7fadbe030b02716db53e78a9eee3c99677c0504375
+T 1548691882 24*	DCC RECV '23SearchOok_results_for__Data_Structures_and_Abstractions_with_Java.txt.zip' from 18SearchOok complete 30[24790 cps30]
+T 1548691884 18<Ras8berry18>	!pondering42 Gerald Duff - [Ragsdale & Walker 02] - Memphis Luck (epub).rar
+T 1548691890 18<Bobichas18>	!Ook Victor Canning - The Man from the 'Turkish Slave' (A Handful of Silver) (retail) (epub).rar  ::INFO:: 327.2KB
+T 1548691891 18<bocHya18>	@find bruce benward
+T 1548691897 18<Ashfeathers18>	!hamsterbacke Harry Potter und der Stein der Weisen - J.K. Rowling.epub
+T 1548691897 24*	Nem061111116 has quit (Ping timeout)
+T 1548691899 23*	Beachbum (Beachbum@68.235.38.4023) has joined
+T 1548691901 18<bocHya18>	@search bruce benward
+T 1548691902 18<Bobichas18>	!Ook Victor Canning - The Mask of Memory (retail) (epub).rar 
+T 1548691904 18<Ras8berry18>	!pondering42 Gerald Hammond - [Keith Calder 01] - Dead Game (epub).rar
+T 1548691915 24*	Sean has quit (Quit: Leaving)
+T 1548691917 18<macmittens9918>	!hamsterbacke Zucman, Gabriel - Steueroasen - Wo der Wohlstand der Nationen versteckt wird.epub
+T 1548691917 23*	eva__ (eva@205.211.168.10423) has joined
+T 1548691922 18<eva__18>	@search Drawings from the Gulag 
+T 1548691925 18<Ras8berry18>	!pondering42 Geri Foster - [Storm Warning 01] - Fear the Storm (retail) (epub).rar
+T 1548691930 18<sandal118>	!DV8 Amy Daws - [Harris Brothers 03] - Keeper (epub).rar  ::INFO:: 629.2KB
+T 1548691930 18<sandal118>	!dragnbreaker Amy Daws - [Harris Brothers 04] - Surrender (epub).rar  ::INFO:: 467.9KB
+T 1548691939 18<sandal118>	!Ook Amy Daws - [Harris Brothers 05] - Dominate (epub).rar  ::INFO:: 616.3KB
+T 1548691941 18<Beachbum18>	@search Atlantis Deception Jackson
+T 1548691943 18<mentorian18>	!SearchOok SearchOok_results_for__1793.txt.zip
+T 1548691944 18<Ras8berry18>	!pondering42 Gill Sanderson - [Brides of Penhally Bay 06] - Nurse Bride, Bayside Wedding (retail) (epub).rar
+T 1548691948 24*	louieee has quit (Quit)
+T 1548691949 23*	AshtonG (~AshtonG@70.133.170.4623) has joined
+T 1548691954 18<eva__18>	@search Russian Criminal Tattoo Encyclopaedia Volume I
+T 1548691962 18<Beachbum18>	@search Atlantis Deception
+T 1548691963 18<adiroman18>	04,0014,00 12,00Type:04,00 @adiroman 12,00For My List Of:04,00 2,490 12,00Files 14,00 12,00Slots:04,00 4/4 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 5,130 14,00 12,00List: 04,00Jan 9th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1548691963 18<Ashfeathers18>	!hamsterbacke Harry Potter und der Stein der Weisen - J.K. Rowling.epub
+T 1548691964 18<Ras8berry18>	!pondering42 Gill Sanderson - [Dell Owen Maternity 01] - A Very Special Midwife (retail) (epub).rar
+T 1548691968 24*	Received a CTCP 24SLOTS 4 4 NOW 0 999 0 2490 1115587826438 0 1547048242 2462 OmenServe v2.73 from 18adiroman (to 22#bookz)
+T 1548691973 18<eva__18>	@search Danzig Baldaev
+T 1548691973 18<sandal118>	!Ook Amy Daws - [Harris Brothers 03] - Keeper (epub).rar  ::INFO:: 601.2KB
+T 1548691980 24*	Beachbum has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1548691984 18<Ras8berry18>	!pondering42 Gill Sanderson - [Dell Owen Maternity 03] - The Noble Doctor (retail) (epub).rar
+T 1548691986 24*	eva__ has quit (Quit)
+T 1548691989 24*	skgkfhfkgkit (~skgkfhfkg@email.butlerandland.com24) has left
+T 1548691991 18<dragnbreaker18>	04,0014,00 12,00Type:04,00 @dragnbreaker 12,00For My List Of:04,00 310,624 12,00Files 14,00 12,00Slots:04,00 1/4 14,00 12,00Queued:04,00 3 14,00 12,00Speed:04,00 26,254cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 161,092 14,00 12,00List: 04,00Jan 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1548691995 18<shepe18>	!hamsterbacke Martin, George R.R. - Das Lied von Eis und Feuer - 01 - Die Herren von Winterfell.[pdf.rtf.epub.mobi.htmlz.lit.irf.txt.jpg].rar
+T 1548691996 24*	Received a CTCP 24SLOTS 4 1 NOW 3 999 26254 310624 1606230542429 1 1548034859 390066 OmenServe v2.71 from 18dragnbreaker (to 22#bookz)
+T 1548691998 18<macmittens9918>	!hamsterbacke Zucman, Gabriel - Steueroasen - Wo der Wohlstand der Nationen versteckt wird.epub
+T 1548692004 18<Ras8berry18>	!pondering42 Gill Sanderson - [Lakeland Practice 01] - The Doctor's Engagement Wish (retail) (epub).rar
+T 1548692013 18<BookerT18>	12,0Type 4@BookerT12 For My List Of:4 1125812 Files. Last Updated: 4Thu Jan 17 18:44:19 201912.2,15
+T 1548692024 18<Ras8berry18>	!pondering42 Gill Sanderson - [Lakeland Practice 02] - Midwife's Baby Wish (retail) (epub).rar
+T 1548692026 18<AlternaServ18>	04,00New IRS, Dems & deep politics 4 the New Year14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,585 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 23,737 14,00 12,00List: 04,00Jan 1st 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1548692044 18<Ras8berry18>	!pondering42 Gill Sanderson - [The Wilde Twins 01] - A Sister's Dilemma (retail) (epub).rar
+T 1548692048 18<DV818>	09,0614,06 08,06Type:09,06 @DV8 08,06For My List Of:09,06 94,619 08,06Files 14,06 08,06Slots:09,06 3/4 14,06 08,06Queued:09,06 0 14,06 08,06Speed:09,06 0cps 14,06 08,06Next: 09,06NOW 14,06 08,06Served:09,06 59,206 14,06 08,06List: 09,06Oct 1st 14,06 08,06Search: 09,06ON 14,06 08,06Mode: 09,06Servers Priority 14,06
+T 1548692049 23*	attila (~attila@193.226.193.76.pool.invitel.hu23) has joined
+T 1548692053 24*	Received a CTCP 24SLOTS 4 3 NOW 0 999 0 94619 199275477614 1 1538422789 699381 OmenServe v2.73 from 18DV8 (to 22#bookz)
+T 1548692053 18<`ns`18>	0,6Type @`ns` for my tiny list of fantasy novel epubs. 2 books added on 2016.08.08 : xchat_list_serv.0.8.2
+T 1548692053 18<nikhil987618>	@search scott meyers
+T 1548692064 18<Ras8berry18>	!pondering42 Gill Sanderson - Lifting Suspicion (retail) (epub).rar
+T 1548692064 18<Ashfeathers18>	!hamsterbacke Rowling, J.K. - Harry Potter 01 - Harry Potter und der Stein der Weisen.epub
+T 1548692065 18<shepe18>	!hamsterbacke Martin, George R. R. - Das Lied von Eis und Feuer 01 - Die Herren von Winterfell.epub

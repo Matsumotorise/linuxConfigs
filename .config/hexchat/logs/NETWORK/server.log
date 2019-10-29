@@ -1,0 +1,36 @@
+**** BEGIN LOGGING AT Mon Jan 28 10:57:31 2019
+
+Jan 28 10:57:31 Perl interface loaded
+Jan 28 10:57:31 Sysinfo plugin loaded
+Jan 28 10:57:31 Lua version 1.3/5.3 loaded.
+Jan 28 10:57:31 Checksum plugin loaded
+Jan 28 10:57:31 FiSHLiM plugin loaded
+Jan 28 10:57:31 Python interface loaded
+**** BEGIN LOGGING AT Mon Jan 28 10:59:12 2019
+
+Jan 28 10:59:12 Perl interface loaded
+Jan 28 10:59:12 Sysinfo plugin loaded
+Jan 28 10:59:12 Lua version 1.3/5.3 loaded.
+Jan 28 10:59:12 Checksum plugin loaded
+Jan 28 10:59:12 FiSHLiM plugin loaded
+Jan 28 10:59:12 Python interface loaded
+Jan 28 10:59:12 *	Looking up us.undernet.org
+Jan 28 10:59:12 *	Connecting to us.undernet.org (45.58.183.18:6667)
+Jan 28 10:59:12 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Mon Jan 28 11:00:17 2019
+
+Jan 28 11:00:17 Perl interface loaded
+Jan 28 11:00:17 Sysinfo plugin loaded
+Jan 28 11:00:17 Lua version 1.3/5.3 loaded.
+Jan 28 11:00:17 Checksum plugin loaded
+Jan 28 11:00:17 FiSHLiM plugin loaded
+Jan 28 11:00:17 Python interface loaded
+Jan 28 11:00:17 *	Looking up us.undernet.org
+Jan 28 11:00:17 *	Connecting to us.undernet.org (91.236.182.1:6667)
+Jan 28 11:00:18 *	Connected. Now logging in.
+Jan 28 11:00:18 *	*** Looking up your hostname
+Jan 28 11:00:18 *	*** Checking Ident
+Jan 28 11:00:18 *	*** No ident response
+Jan 28 11:00:18 *	*** Found your hostname
+**** ENDING LOGGING AT Mon Jan 28 11:00:19 2019
+
