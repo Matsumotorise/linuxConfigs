@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Get the country thing
+/usr/bin/reflector -c "United States" -p http --sort rate --save /etc/pacman.d/mirrorlist
+
+# Work through the alternatives
+/usr/bin/reflector -p http  --latest 20 -p https -p ftp --sort rate >> /etc/pacman.d/mirrorlist

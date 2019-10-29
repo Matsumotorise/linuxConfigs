@@ -1,0 +1,18 @@
+#!/bin/bash                                                     
+# check if time is between 0200 and 0600
+H=$(date +%H)
+if (( 1 <= 10#$H && 10#$H < 8 ))
+  then
+# check for incomplete downloads
+      if [[ -n $(find /home/andrew/share/andrew/Download/BT -name '*.part') ]]
+        then
+          echo "download in progress..."
+          exit
+        else
+          echo "no download in progress"
+          echo "shutting down now..."            
+          poweroff
+        fi
+  else                                                                          
+    exit                                                                        
+fi
