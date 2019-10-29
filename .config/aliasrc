@@ -75,6 +75,14 @@ function z() {
 	zathura "$@" & disown
 }
 
+function rspeer() {
+	/opt/rspeer/rspeer-launcher & disown
+}
+
+function intelij() {
+	/usr/bin/intellij-idea-ultimate-edition & disown
+}
+
 function matlab() {
 	/opt/Matlab/bin/matlab & disown
 }
