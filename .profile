@@ -15,8 +15,8 @@ export SUDO_ASKPASS="$HOME/.local/bin/tools/dmenupass"
 export NOTMUCH_CONFIG="$HOME/.config/notmuch-config"
 export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
 export JAVAIDE="/opt/InteliJ/bin/idea.sh"
-export SHOME="/home/andrew/share/Users/Andrew/"
-export HDIR="/home/andrew/share/Users/Andrew/Documents/SchoolNotes/"
+export SHOME="/mnt/dos/Users/Andrew/"
+export HDIR="/mnt/dos/Users/Andrew/Documents/SchoolNotes/"
 
 # Japanese input for QT and GTK programs
 export QT_IM_MODULE=fcitx
