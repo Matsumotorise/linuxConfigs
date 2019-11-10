@@ -27,6 +27,9 @@ set go=a
 set mouse=a
 set nohlsearch
 set clipboard+=unnamedplus
+set backupdir=.backup/,~/.backup/,/tmp//
+set directory=.swp/,~/.swp/,/tmp//
+set undodir=.undo/,~/.undo/,/tmp//
 
 " Some basics:
 	nnoremap c "_c

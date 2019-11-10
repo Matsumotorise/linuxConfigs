@@ -12,6 +12,7 @@ alias ka="killall" \
 	e="$EDITOR" \
 	v="$EDITOR" \
 	x="sxiv -ft *" \
+	hg="history | grep" \
 	sdn="sudo shutdown -h now" \
 	gua="git remote | xargs -L1 git push --all" \
 	ls="ls -hN --color=auto --group-directories-first" \
@@ -31,7 +32,7 @@ alias ka="killall" \
 	lsp="pacman -Qett --color=always | less" \
 	la="ls -la" \
 	ffmpeg="ffmpeg -hide_banner" \
-	u="sudo pacman -Syuu && sudo update-grub" \
+	u="sudo pacman -Syuu && sudo grub-mkconfig -o /boot/grub/grub.cfg" \
 	purge="sudo pacman -Rns" \
 	install="sudo pacman -S" \
 	wget="wget -E -H -k -K -p --convert-links" \

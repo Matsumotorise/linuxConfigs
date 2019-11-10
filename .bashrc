@@ -8,3 +8,7 @@ export GIT_DISCOVERY_ACROSS_FILESYSTEM=1
 
 [ -f "$HOME/.config/shortcutrc" ] && source "$HOME/.config/shortcutrc" # Load shortcut aliases
 [ -f "$HOME/.config/aliasrc" ] && source "$HOME/.config/aliasrc"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
